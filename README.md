@@ -12,7 +12,9 @@ Passionate Full Stack Developer with a strong background in web development. I s
 ### Connect with me
 <div style="display:flex; justify-content:start; align-items:center;">
   <a href="https://x.com/MohamedRiyazAN2" target="_blank">
-    <img src="https://i.postimg.cc/5tQxRNNx/twitter.png" alt="Instagram" height="30" width="30" style="background-color:white; margin-right:20px;">
+    <div style="background-color:white;">
+      <img src="https://i.postimg.cc/5tQxRNNx/twitter.png" alt="Instagram" height="30" width="30" style="margin-right:20px;">
+    </div>  
   </a>
 
   <a href="https://www.linkedin.com/in/mohamed-riyaz-53456123a" target="_blank">
