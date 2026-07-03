@@ -12,21 +12,21 @@ Passionate Full Stack Developer with a strong background in web development. I s
 ### Connect with me
 <div style="display:flex; justify-content:start; align-items:center; gap:12px;">
   <a href="https://x.com/MohamedRiyazAN2" target="_blank">
-    <img src="https://i.postimg.cc/5tQxRNNx/twitter.png" alt="Instagram" height="30" width="30">
+    <img src="https://i.postimg.cc/5tQxRNNx/twitter.png" alt="Instagram" height="30" width="30" style="background-color:white; margin-right:12px;">
   </a>
 
   <a href="https://www.linkedin.com/in/mohamed-riyaz-53456123a" target="_blank">
-    <img src="https://i.postimg.cc/FH8v35g4/linkedin.png" alt="Instagram" height="30" width="30">
+    <img src="https://i.postimg.cc/FH8v35g4/linkedin.png" alt="Instagram" height="30" width="30" style="margin-right:12px;">
   </a>
 
   <a href="https://www.instagram.com/mohamed_riyaz_a_n/" target="_blank">
-    <img src="https://i.postimg.cc/t405mmgW/instagram.png" alt="Instagram" height="35" width="35">
+    <img src="https://i.postimg.cc/t405mmgW/instagram.png" alt="Instagram" height="35" width="35" style="margin-right:12px;">
   </a>
 </div>
 
 
 ### 🛠️ Tech Stack
-<div style="display:flex; justify-content:start; align-items:center; gap:12px;">
+<div style="display:flex; justify-content:space-between; align-items:center;">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="35" src="https://i.postimg.cc/DfqPDPtQ/frappe-framework.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://i.postimg.cc/jdcQqdq0/bootstrap.png" /><img height="50" width="50" src="https://i.postimg.cc/nhw47RQ4/tailwind.png" />
 </div>
 
