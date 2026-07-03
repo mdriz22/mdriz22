@@ -6,11 +6,11 @@ Passionate Full Stack Developer with a strong background in web development. I s
 <p align="center">
 🔭 Portfolio: <a href="https://mdriz.netlify.app/">mdriz22</a>
 </p>
-### Connect with me
+<h4>Connect with me</h4>
 <div style="padding-top:2px">
 <a href="https://www.linkedin.com/in/mohamed-riyaz-53456123a" target="_blank"><img src="https://i.postimg.cc/FH8v35g4/linkedin.png" alt="LinkedIn" height="30" width="30"/></a> &nbsp;&nbsp; <a href="https://www.instagram.com/mohamed_riyaz_a_n/" target="_blank"><img src="https://i.postimg.cc/t405mmgW/instagram.png" alt="Instagram" height="33" width="33"/></a>
 </div>
-### 🛠️ Tech Stack
+<h4>🛠️ Tech Stack</h4>
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:12px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right:12px;"/></a>
@@ -23,7 +23,7 @@ Passionate Full Stack Developer with a strong background in web development. I s
 <a href="https://getbootstrap.com/" target="_blank"><img height="50" width="60" src="https://i.postimg.cc/jdcQqdq0/bootstrap.png" style="margin-right:12px;"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img height="50" width="50" src="https://i.postimg.cc/nhw47RQ4/tailwind.png" style="margin-right:12px;"/></a>
 </div>
-### 📊 GitHub Stats
+<h4>📊 GitHub Stats</h4>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdriz22&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true"/>
 </p>
