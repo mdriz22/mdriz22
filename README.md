@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Frappe/ERPNext · Python · React.js · Vue.js | Integrations & AI Automation</h3>
 <p align="center">
 Full stack developer building custom Frappe/ERPNext apps, integrations and automation for business workflows.
-I work across Python, MariaDB and JavaScript (Vue.js, React) to ship reliable, maintainable software.
+I work across Python, MariaDB and JavaScript (React, Vue.js) to ship reliable, maintainable software.
 </p>
 <p align="center">
 🔭 Portfolio: <a href="https://mdriz.netlify.app/">mdriz.netlify.app</a>
