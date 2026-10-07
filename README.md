@@ -8,7 +8,7 @@ Passionate Full Stack Developer with a strong background in web development. I s
 </p>
 <h4>Connect with me</h4>
 <div style="padding-top:2px">
-<a href="https://www.linkedin.com/in/mohamed-riyaz-53456123a" target="_blank"><img src="https://i.postimg.cc/FH8v35g4/linkedin.png" alt="LinkedIn" height="30" width="30"/></a> &nbsp;&nbsp; <a href="https://www.instagram.com/mohamed_riyaz_a_n/" target="_blank"><img src="https://i.postimg.cc/t405mmgW/instagram.png" alt="Instagram" height="33" width="33"/></a>
+<a href="https://www.linkedin.com/in/mohamed-riyaz-53456123a" target="_blank"><img src="https://i.postimg.cc/FH8v35g4/linkedin.png" alt="LinkedIn" height="30" width="30"/></a> &nbsp;&nbsp; <a href="mailto:mohamedriyaz5050@gmail.com" target="_blank"><img src="https://i.postimg.cc/DwC4zjnx/communication.png" alt="Mail" height="33" width="33"/></a>
 </div>
 <h4>🛠️ Tech Stack</h4>
 <div>
