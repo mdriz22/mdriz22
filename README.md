@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋 I'm Mohamed Riyaz</h1>
 <h3 align="center">Software Developer | Frappe/ERPNext · Python · React.js · Vue.js | Integrations & AI Automation</h3>
 <p align="center">
-Passionate Full Stack Developer with a strong background in web development. I specialize in building scalable business solutions using the Frappe Framework. Skilled in Python, JavaScript, and full-stack development, I focus on delivering efficient, user-friendly applications that improve business workflows and productivity.
+Full stack developer specializing in custom Frappe/ERPNext apps and the integrations around them: WhatsApp Business Cloud API, biometric attendance devices, and LLM-based automation.
+I work across Python, MariaDB and JavaScript (Vue.js, React) to turn business workflows into reliable software.
 </p>
 <p align="center">
 🔭 Portfolio: <a href="https://mdriz.netlify.app/">mdriz.netlify.app</a>
