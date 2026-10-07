@@ -16,6 +16,7 @@ Passionate Full Stack Developer with a strong background in web development. I s
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right:12px;"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:12px;"/></a>
 <a href="https://react.dev/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:12px;"/></a>
+<a href="https://vuejs.org/" target="_blank"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="margin-right:12px;"/></a>  
 <a href="https://git-scm.com/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" style="margin-right:12px;"/></a>
 <a href="https://frappeframework.com/" target="_blank"><img height="50" width="50" src="https://i.postimg.cc/DfqPDPtQ/frappe-framework.png" style="margin-right:12px;"/></a>
 <a href="https://www.python.org/" target="_blank"><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" style="margin-right:12px;"/></a>
